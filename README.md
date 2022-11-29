@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://thumbs.dreamstime.com/b/banner-software-development-programming-web-site-app-laptop-code-ui-ux-interface-concept-coding-testing-usability-design-220115862.jpg)]
 <h1 align="center">Hi 👋, I'm Neha Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" width="400px" alt="Coding" />
