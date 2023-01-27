@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript, React**
 
-- 📫 How to reach me **ignitinsharma@outlook.com**
+- 📫 How to reach me **rajneha0111@gmail.com.com**
 
 - ⚡ Fun fact **I think I'm Lazy person and meme lover 😂**
 
